@@ -2589,7 +2589,7 @@ These options influence Texinfo output.
    are:
 
    *startdocname*
-     String that specifies the :term:`document name` of the the Texinfo file's
+     String that specifies the :term:`document name` of the Texinfo file's
      master document.  All documents referenced by the *startdoc* document in
      TOC trees will be included in the Texinfo file.  (If you want to use the
      default master document for your Texinfo build, provide your
